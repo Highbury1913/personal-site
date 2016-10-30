@@ -1,3 +1,10 @@
 .Info{
-	background-color:blue;
+	background-color: navajowhite;
+	border-radius: 30px;
+	border-style: dotted solid double dashed;
+	border-top-color:mediumpurple;
+	border-right-color:navy;
+	border-bottom-color:orchid;
+	border-left-color:oldlace;
+	border-width:15px;
 }
