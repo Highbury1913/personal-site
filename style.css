@@ -1,10 +1,28 @@
 .Info{
 	background-color: navajowhite;
 	border-radius: 30px;
-	border-style: dotted solid double dashed;
-	border-top-color:mediumpurple;
+	border-style: dotted solid double solid;
+	border-top-color:tomato;
 	border-right-color:navy;
 	border-bottom-color:orchid;
-	border-left-color:oldlace;
-	border-width:15px;
+	border-left-color:navy;
+	border-width:10px;
+}
+.Hobbies{
+	background-color: hsl(222, 69%, 46%);
+	border-radius: 1000px;
+	border-style: dotted solid double solid;
+	border-top-color:tomato;
+	border-right-color:navy;
+	border-bottom-color:hotpink;
+	border-left-color:navy;
+	border-width:10px;
+}
+ul{
+	color: white;
+	font-family: cursive;
+ 
+}
+body {
+	background-image: url("http://www.pixelstalk.net/wp-content/uploads/2015/11/Arsenal-Wallpapers-HD.jpg");
 }
