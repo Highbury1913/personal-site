@@ -34,6 +34,7 @@ h1{
 	text-align: center;
 	margin: 0 auto;
 	color:orangered;
+	padding: 50px;
 }
 .img {
 	margin: auto;
@@ -59,20 +60,18 @@ h1{
 	opacity: 0.5;
 	filter: alpha(opacity=50);
 }
-nav{
-	text-align: center;
-	
-	margin-top: 100px;
-
-    text-decoration: none;
+nav {
+    margin: 0 auto;
 	height:50px;
-	width:50;
+	width:50px;
+	padding-bottom: 10px;
+	
 
 }
 .forest-image {
 	width: 100%;
 	max-width: 500px;
-	display: block; 
+	display: inline-block; 
 	margin: 0 auto;
 	padding: 20px;
 	
@@ -91,19 +90,26 @@ h2 {
   font-weight: bold;
   font-family: cursive;
   margin-bottom: 5px;
-  font-size: 18px;
+  font-size: 25px;
+  color: hsl(69, 7%, 100%);
+
 }
 .column {
   float: left;
   width: 33.3%;
+
 }
 .project img {
   width: 100%;
 display: inline-block;
+height: 300px;
 
 
 }
 .column-inner {
 	padding: 20px;
 
+	
+
 }
+
