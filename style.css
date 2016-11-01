@@ -24,7 +24,9 @@ ul{
  
 }
 body {
-	background-image: url("http://www.pixelstalk.net/wp-content/uploads/2015/11/Arsenal-Wallpapers-HD.jpg");
+	background-image: url("https://s-media-cache-ak0.pinimg.com/236x/82/3b/b8/823bb89df47aaad9d1cc42da849c9645.jpg");
+	/*background-size: cover;
+	max-height: 100%;*/
 
 
 }
@@ -39,6 +41,8 @@ h1{
 	filter: alpha(opacity=50);
 	border:0px solid black;
 	width: 80%;
+	padding-top: 20px;
+	padding-left: 50%;
 }
 .img:hover {
 	opacity: 1.0;
@@ -48,6 +52,8 @@ h1{
 	opacity: 1.0;
 	filter:alpha(opacity=100)
 	color:red;
+	display: inline-block;
+	padding-left: 50%;
 }
 .myButton:hover{
 	opacity: 0.5;
@@ -57,9 +63,47 @@ nav{
 	text-align: center;
 	
 	margin-top: 100px;
-	z-index: 1;
-	color: orange;
+
+    text-decoration: none;
 	height:50px;
 	width:50;
+
+}
+.forest-image {
+	width: 100%;
+	max-width: 500px;
+	display: block; 
+	margin: 0 auto;
+	padding: 20px;
+	
+
+
+}
+h4 {
+  margin: 0;
+  font-family: cursive;
+  text-align: center;
+  font-weight: bold;
+  padding: 25px;
+}
+h2 {
+  text-align: center;
+  font-weight: bold;
+  font-family: cursive;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+.column {
+  float: left;
+  width: 33.3%;
+}
+.project img {
+  width: 100%;
+display: inline-block;
+
+
+}
+.column-inner {
+	padding: 20px;
 
 }
