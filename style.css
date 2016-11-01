@@ -88,6 +88,7 @@ h2 {
   margin-bottom: 5px;
   font-size: 25px;
   color: red;
+  background-color: #FFF8DC;
 
 }
 .column {
@@ -153,6 +154,6 @@ td {
 	color: black;
 }
 .heading{
-	background-color: white;
+	/*background-color: white;*/
 	color: black;
 }
