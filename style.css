@@ -6,31 +6,25 @@
 	font-size: 20px;
 	font-family: cursive;
 	filter: brightness(150%);
-	}
+}
 .Hobbies{
 	background-color: hsl(222, 0%, 50%);
-	
 }
 ul{
 	color: white;
 	font-family: cursive;
- 
 }
 body {
 	background-image: url("https://s-media-cache-ak0.pinimg.com/236x/82/3b/b8/823bb89df47aaad9d1cc42da849c9645.jpg");
 	/*background-size: cover;
 	max-height: 100%;*/
 	filter: brightness(75%);
-
-
 }
 h1{
 	display: inline-block;
 	text-align: center;
 	margin: 0 auto;
 	color:orangered;
-	
-	
 }
 .img {
 	margin: auto;
@@ -61,8 +55,6 @@ nav {
 	height:50px;
 	width:50px;
 	padding-bottom: 10px;
-	
-
 }
 .forest-image {
 	width: 100%;
@@ -70,9 +62,6 @@ nav {
 	display: inline-block; 
 	margin: 0 auto;
 	padding: 20px;
-	
-
-
 }
 h4 {
   margin: 0;
@@ -89,25 +78,18 @@ h2 {
   font-size: 25px;
   color: red;
   background-color: #FFF8DC;
-
 }
 .column {
   float: left;
   width: 33.3%;
-
 }
 .project img {
   width: 100%;
 display: inline-block;
 height: 300px;
-
-
 }
 .column-inner {
 	padding: 20px;
-
-	
-
 }
 table {
 	width: 100%;
