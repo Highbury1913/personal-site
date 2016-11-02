@@ -1,7 +1,6 @@
 .Info{
 	background-color: #2F4F4F;
 	border-radius: 30px;
-	border-style: 3px solid navy;
 	color: #B22222;
 	font-size: 20px;
 	font-family: cursive;
@@ -107,7 +106,7 @@ td {
 	border: 0px ;
 }
 .one {
-	background-color: black;
+	background-color: maroon;
 	color: white;
 }
 .two {
@@ -115,11 +114,11 @@ td {
 	color: black;
 }
 .three{
-	background-color: black;
+	background-color: maroon;
 	color: white;
 }
 .navOne {
-	background-color: black;
+	background-color: maroon;
 	color: white;
 
 }
@@ -128,14 +127,14 @@ td {
 	color: black;
 }
 .navThree {
-	background-color: black;
+	background-color: maroon;
 	color: white;
 }
 .navFour {
 	background-color: white;
 	color: black;
 }
-.heading{
+.heading {
 	/*background-color: white;*/
 	color: black;
 }
